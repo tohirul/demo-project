@@ -1,0 +1,73 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+
+}
+
+section{
+
+    display: flex;
+
+}
+
+#background-img{
+
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+
+h1{
+
+    font-size: 2rem;
+
+}
+
+.red{
+
+    color: red;
+    font-size: 2rem;
+
+}
+
+.orange{
+
+    color: orange;
+
+}
+
+
+.half-width{
+
+    width: 50%;
+    margin-left: 5%;
+    padding-left: 5%;
+    margin-top: 5%;
+
+}
+
+.radious img{
+
+width: 80%;
+height: 80%;
+padding-top: 20px;
+
+}
+
+
+.edit-p{
+
+    width: 80%;
+    padding: 5px;
+    
+}
+
+a{
+
+    text-decoration: none;
+    background-image: linear-gradient(tomato,red);
+    color: white;
+    padding: 6px 12px;
+    border-radius: 10px;
+
+}
